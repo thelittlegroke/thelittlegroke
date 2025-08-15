@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thelittlegroke
 - 👀 I’m interested in coding and brains
-- 🌱 I’m currently learning biology
 
 
 <!---
